@@ -1,1 +1,3 @@
-Ini Isinya
+<script>
+localStorage.setItem("statuspro", "https://catatanlamers.github.io/InfinityGuitarChord/ProWidget.txt");
+</script>
