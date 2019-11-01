@@ -1,1 +1,1 @@
-<script src="https://catatanlamers.github.io/InfinityGuitarChord/ypdate.js"></script>
+<script src="https://catatanlamers.github.io/InfinityGuitarChord/update.js"></script>
