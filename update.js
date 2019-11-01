@@ -1,2 +1,3 @@
 var uphik = "Uphik Lamers";
-myApp.alert(uphik);
+console.log(uphik);
+alert(uphik);
